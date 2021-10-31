@@ -1,0 +1,1 @@
+- Since I rewrote the ArrangeBorrower shorthand methods for the integration tests, I've always wanted to isolate that logic into its own separate service so that it's easier for others to use (IE. Data Team).  I could totally see us utilizing a stepwise builder pattern for that implementation. 

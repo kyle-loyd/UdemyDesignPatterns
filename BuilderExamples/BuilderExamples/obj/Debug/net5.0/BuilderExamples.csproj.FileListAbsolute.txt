@@ -1,0 +1,16 @@
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\BuilderExamples.csproj.AssemblyReference.cache
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\BuilderExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\BuilderExamples.AssemblyInfoInputs.cache
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\BuilderExamples.AssemblyInfo.cs
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\BuilderExamples.csproj.CoreCompileInputs.cache
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\BuilderExamples.exe
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\BuilderExamples.deps.json
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\BuilderExamples.runtimeconfig.json
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\BuilderExamples.runtimeconfig.dev.json
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\BuilderExamples.dll
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\ref\BuilderExamples.dll
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\BuilderExamples.pdb
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\BuilderExamples.dll
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\ref\BuilderExamples.dll
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\BuilderExamples.pdb
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\BuilderExamples.genruntimeconfig.cache

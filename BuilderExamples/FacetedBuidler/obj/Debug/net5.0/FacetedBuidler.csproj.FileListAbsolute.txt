@@ -1,0 +1,15 @@
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\obj\Debug\net5.0\FacetedBuidler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\obj\Debug\net5.0\FacetedBuidler.AssemblyInfoInputs.cache
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\obj\Debug\net5.0\FacetedBuidler.AssemblyInfo.cs
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\obj\Debug\net5.0\FacetedBuidler.csproj.CoreCompileInputs.cache
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\bin\Debug\net5.0\FacetedBuidler.exe
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\bin\Debug\net5.0\FacetedBuidler.deps.json
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\bin\Debug\net5.0\FacetedBuidler.runtimeconfig.json
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\bin\Debug\net5.0\FacetedBuidler.runtimeconfig.dev.json
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\bin\Debug\net5.0\FacetedBuidler.dll
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\bin\Debug\net5.0\ref\FacetedBuidler.dll
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\bin\Debug\net5.0\FacetedBuidler.pdb
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\obj\Debug\net5.0\FacetedBuidler.dll
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\obj\Debug\net5.0\ref\FacetedBuidler.dll
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\obj\Debug\net5.0\FacetedBuidler.pdb
+D:\Development\udemy-design-patterns\BuilderExamples\FacetedBuidler\obj\Debug\net5.0\FacetedBuidler.genruntimeconfig.cache

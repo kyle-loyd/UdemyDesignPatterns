@@ -1,0 +1,15 @@
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\StepwiseBuilder.exe
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\StepwiseBuilder.deps.json
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\StepwiseBuilder.runtimeconfig.json
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\StepwiseBuilder.runtimeconfig.dev.json
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\StepwiseBuilder.dll
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\ref\StepwiseBuilder.dll
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\bin\Debug\net5.0\StepwiseBuilder.pdb
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\StepwiseBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\StepwiseBuilder.AssemblyInfoInputs.cache
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\StepwiseBuilder.AssemblyInfo.cs
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\StepwiseBuilder.csproj.CoreCompileInputs.cache
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\StepwiseBuilder.dll
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\ref\StepwiseBuilder.dll
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\StepwiseBuilder.pdb
+D:\Development\udemy-design-patterns\BuilderExamples\BuilderExamples\obj\Debug\net5.0\StepwiseBuilder.genruntimeconfig.cache

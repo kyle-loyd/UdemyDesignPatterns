@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1m39NY7iMFhqWUE2xkYigovhIrJu08ebePCh/N9iNBWYBxFFBNo1THOI/EWJZ+FgK+DkKEVCPkPVLwdmyPkUQ==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\udemy-design-patterns\\BuilderExamples\\BuilderExamples\\StepwiseBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kylel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

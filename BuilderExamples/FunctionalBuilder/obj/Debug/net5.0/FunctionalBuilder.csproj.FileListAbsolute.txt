@@ -1,0 +1,16 @@
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\bin\Debug\net5.0\FunctionalBuilder.exe
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\bin\Debug\net5.0\FunctionalBuilder.deps.json
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\bin\Debug\net5.0\FunctionalBuilder.runtimeconfig.json
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\bin\Debug\net5.0\FunctionalBuilder.runtimeconfig.dev.json
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\bin\Debug\net5.0\FunctionalBuilder.dll
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\bin\Debug\net5.0\ref\FunctionalBuilder.dll
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\bin\Debug\net5.0\FunctionalBuilder.pdb
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\obj\Debug\net5.0\FunctionalBuilder.csproj.AssemblyReference.cache
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\obj\Debug\net5.0\FunctionalBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\obj\Debug\net5.0\FunctionalBuilder.AssemblyInfoInputs.cache
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\obj\Debug\net5.0\FunctionalBuilder.AssemblyInfo.cs
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\obj\Debug\net5.0\FunctionalBuilder.csproj.CoreCompileInputs.cache
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\obj\Debug\net5.0\FunctionalBuilder.dll
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\obj\Debug\net5.0\ref\FunctionalBuilder.dll
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\obj\Debug\net5.0\FunctionalBuilder.pdb
+D:\Development\udemy-design-patterns\BuilderExamples\FunctionalBuilder\obj\Debug\net5.0\FunctionalBuilder.genruntimeconfig.cache

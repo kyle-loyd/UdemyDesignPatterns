@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6V7bAI+jr/hl/ubPwyskSG1le+kKz/73he+oQ6YfIcSydVcqFHn/6S8MRK8P2uQ4F6t1+l6SZi+umxB/n6Vl9g==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\udemy-design-patterns\\BuilderExamples\\FunctionalBuilder\\FunctionalBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kylel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
